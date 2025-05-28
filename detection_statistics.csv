@@ -1,0 +1,18 @@
+Statistic,Value
+Total Frames Processed,900
+Average Processing Time (s),0.744
+Total Processing Time (min),11.75
+Total Objects Detected,14440
+Frames with Objects,900
+Reclassifications,470
+Low Confidence Detections,873
+Classification Agreement Rate (%),96.2
+
+Class,Count,Percentage (%)
+car,13294,92.1
+truck,894,6.2
+motorbike,251,1.7
+bus,1,0.0
+bicycle,0,0.0
+train,0,0.0
+boat,0,0.0
